@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Desafío Minig Tag - Lduhalde</string>
+  <string name="btnRegistrar">Registrar ubicación</string>
+  <string name="descName">Ingrese un nombre para registrar la red</string>
+</resources>
